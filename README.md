@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Android Design Patterns.
 - 🌱 I’m currently learning Flow with Coroutines.
 - 👯 I’m looking to collaborate on Android Projects.
-- 🤔 I’m looking for help with Custom Views/Designs on Android.
+- 🤔 I’m looking for help with Custom Views and Testing on Android.
 - 💬 Ask me about Kotlin, Android or any tech related stuff.
 - 📫 How to reach me: [Twitter - @zaraki596](https://twitter.com/zaraki596)
 - 😄 Pronouns: He/His
