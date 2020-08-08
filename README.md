@@ -9,5 +9,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Can Talk about why Amd Ryzen processors are better than Intel ones.
 
-<img src ="https://github-readme-stats.vercel.app/api?username=zaraki596&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src ="https://github-readme-stats.vercel.app/api?username=zaraki596&&show_icons=true&title_color=0892d0&icon_color=002147&text_color=0892d0&bg_color=fffff0">
 
