@@ -7,7 +7,7 @@ I make Android App with the latest and greatest Jetpack components with the help
 Skills: Kotlin, Android, Java, REST, UI/UX, GIT, MVVM
 
 - 🔭 I’m currently working on Design Patterns. 
-- 🌱 I’m currently learning  Flow(Coroutines), Testing. 
+- 🌱 I’m currently learning Testing. 
 - 👯 I’m looking to collaborate on Android Projects. 
 - 🤔 I’m looking for help with Testing and Custom Design. 
 - 💬 Ask me about Android, Tech related stuff, Mindfulness. 
