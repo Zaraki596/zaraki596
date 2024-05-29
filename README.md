@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rohan
 #### I am Android Engineer
-![I am an Android Engineer](https://pbs.twimg.com/profile_banners/512914718/1506918216/1500x500)
+
 
 I make Android App with the latest and greatest Jetpack components with the help of Kotlin, you can find me googling about Technological advancement or simply humming around retro songs.
 
