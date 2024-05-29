@@ -18,4 +18,4 @@ Skills: Jetpack Compose, Kotlin, Android, Java, REST, UI/UX, GIT, MVVM/MVI
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaraki596&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/zaraki596)  
+![Profile views](https://komarev.com/ghpvc/?username=zaraki596)  
